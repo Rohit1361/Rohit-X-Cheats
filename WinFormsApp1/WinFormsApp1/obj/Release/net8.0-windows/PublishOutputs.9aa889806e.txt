@@ -1,0 +1,5 @@
+D:\Rohit-X-Cheats\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.exe
+D:\Rohit-X-Cheats\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.dll
+D:\Rohit-X-Cheats\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.deps.json
+D:\Rohit-X-Cheats\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+D:\Rohit-X-Cheats\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\app.publish\WinFormsApp1.pdb
