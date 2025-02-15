@@ -39,7 +39,7 @@
             label1.Name = "label1";
             label1.Size = new Size(128, 37);
             label1.TabIndex = 0;
-            label1.Text = "Version1";
+            label1.Text = "Version2";
             // 
             // Form1
             // 
