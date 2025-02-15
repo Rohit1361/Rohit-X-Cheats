@@ -39,7 +39,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(137, 31);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Version 1";
+            this.label1.Text = "Version 2";
             // 
             // Form1
             // 
